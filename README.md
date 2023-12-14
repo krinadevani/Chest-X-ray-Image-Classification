@@ -60,5 +60,15 @@ These models were chosen based on their proven effectiveness in image classifica
 All three models performed well with over 90% accuracy. The VGG19 model had the highest accuracy and precision, while the CNN model had the highest recall. The choice of model would depend on the specific requirements of the task, such as whether precision or recall is more important.
 
 
+## How to use
+
+- Download the dataset from the provided link.
+- Download all 4 notebook files in the same folder.
+- Now, our files are ready to use.
 
 
+## Contributors
+
+Deep Prajapati
+Krina Devani
+Shubham Mendapara
