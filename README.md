@@ -70,5 +70,7 @@ All three models performed well with over 90% accuracy. The VGG19 model had the 
 ## Contributors
 
 Deep Prajapati
+
 Krina Devani
+
 Shubham Mendapara
